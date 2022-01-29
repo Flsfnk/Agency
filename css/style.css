@@ -111,7 +111,7 @@ body {
   transition: all 0.3s ease 0s;
 }
 .header__button:hover {
-  background: rgba(62, 63, 216, 0.75);
+  background: rgba(62, 63, 216, 0.05);
   color: #eef4ff;
 }
 .background__block {
